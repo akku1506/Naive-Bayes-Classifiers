@@ -17,6 +17,9 @@ To learn a naive bayes classifier we do the following:
 3. Use these probabilities to classify the test data and report the accuracy. We discuss the difficulty we face when computing the posterior probabilities and propose a solution to overcome this problem.
 4. We vary the m parameter and study the changes in the accuracies as a function of m.
 
+### Running the implementation:
+
+python naive.py
 
 ### Reference:
 [1] http://plg.uwaterloo.ca/~gvcormac/treccorpus/about.html
