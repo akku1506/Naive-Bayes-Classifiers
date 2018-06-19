@@ -21,5 +21,7 @@ To learn a naive bayes classifier we do the following:
 
 python naive.py
 
+For more details, refer to the pdf in the repository.
+
 ### Reference:
 [1] http://plg.uwaterloo.ca/~gvcormac/treccorpus/about.html
